@@ -1,0 +1,36 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Quality and Production.co.za" resolutions="1x" timestamp="1555568943599">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="180700332" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="background copy 2.png" crc="3788353925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u147-8.png" crc="448764595" ref="index"/>
+    <file name="u154-4.png" crc="308126627" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u209_states.png" crc="3894979399" ref="index"/>
+    <file name="u209_states-r.png" crc="4273181412" ref="index"/>
+    <file name="u209_states-m.png" crc="4273181412" ref="index"/>
+    <file name="u164_states.png" crc="4129315403" ref="index"/>
+    <file name="u164_states-r.png" crc="4239491318" ref="index"/>
+    <file name="u182_states.png" crc="494479694" ref="index"/>
+    <file name="u182_states-r.png" crc="3981899209" ref="index"/>
+    <file name="u176_states.png" crc="162145840" ref="index"/>
+    <file name="u176_states-r.png" crc="167270545" ref="index"/>
+    <file name="u188_states.png" crc="3822960437" ref="index"/>
+    <file name="u188_states-r.png" crc="466759674" ref="index"/>
+    <file name="u197_states.png" crc="15458202" ref="index"/>
+    <file name="u197_states-r.png" crc="4011439500" ref="index"/>
+  </folder>
+  <file name="index.html" crc="210720684" seo="true" mt="1555568925263" redirect="true"/>
+</manifest>
